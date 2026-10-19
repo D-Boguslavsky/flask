@@ -36,3 +36,40 @@ Non-public first-party source and internal documentation are designated
 confidential. Keep them within authorized access and sharing arrangements. This
 notice is an ownership and handling notice; it does not replace a signed
 confidentiality agreement or create an assignment from another contributor.
+
+Optional future snapshot licences - no present grant
+
+Daniel may choose, at his sole discretion and subject to existing obligations,
+to grant a separate written, non-exclusive licence to a named business, including
+a future AI agency. The grant must identify the covered material in one or more
+repositories by commit, archive hash or other fixed snapshot and state the
+permitted use. This notice grants no such licence, contractual option, or right
+to demand a licence.
+
+A separate grant can authorize one baseline handoff into the recipient's own
+repositories, followed by continuing use, copying, backups, deployment,
+modification and independent development within its agreed business scope. It
+can expressly permit running client services and charging for those services.
+These activities require the actual grant; this policy is not their permission.
+
+"One-time" describes the identified baseline handoff, not a single execution or
+a ban on copies needed for the licensed work. It creates no entitlement to later
+versions, future repositories, updates, support, synchronization or further
+source deliveries. The separate grant determines its duration and other terms.
+
+Permission to operate client services does not itself authorize selling or
+distributing the covered source or a starter kit containing it, sublicensing or
+transferring the licensed material, or a founder taking it into an unrelated
+business. Those activities, including where protected baseline material remains
+in a modified version, require Daniel's separate written authorization, subject
+to the existing rights and legal exceptions preserved above.
+
+Importing the baseline into another repository and later divergence do not
+themselves transfer ownership of Daniel's material or give the recipient rights
+in his other businesses or their independently developed versions. Daniel
+retains his rights in the baseline and may continue using, developing and
+licensing what he owns, subject to existing obligations. Ownership of later
+original contributions is determined separately by applicable law and agreements;
+this notice assigns neither party the other's additions and does not grant HBDS
+automatic rights to agency-owned additions. Mere similarity of general ideas,
+methods or architecture does not establish ownership of another's code.
