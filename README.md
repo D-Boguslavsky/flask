@@ -152,3 +152,9 @@ The project's directory structure is as follows:
 ## Conclusion
 
 Thank you for using Daniel's Flask Project. For any clarifications or issues, please reach out. Your feedback is invaluable.
+
+## Ownership
+
+Original material owned by **Daniel Boguslavsky** is proprietary and all rights
+are reserved. See [LICENSE](LICENSE) for scope, prior permissions and third-party
+exceptions. No public licence or permission for another business is granted.
